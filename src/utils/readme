@@ -1,0 +1,8 @@
+pure helper functions
+
+utils/
+  formatDate.js
+  currency.js
+  validation.js
+
+These shouldn't depend on React.

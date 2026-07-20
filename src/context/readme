@@ -1,0 +1,10 @@
+Global state providers.
+
+context/
+    AuthContext.jsx
+    ThemeContext.jsx
+
+Example
+<AuthProvider>
+    <App />
+</AuthProvider>
